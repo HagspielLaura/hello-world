@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Welcome world and me!
 
-You can use the [editor on GitHub](https://github.com/HagspielLaura/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Today (10.Augsut 2020) I will launch this project = website.
+If anyone ever will read this, I will quickly catch you up on what will happen on this website and what you can find here or not.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Goal:** I am struggeling to keep information in my (long-time) memory, so on this website I will write down the knowledge I have gained on a day/week. 
+This might just be a word but could be a whole topic. 
+So for you as a reader, you can get the chance to gain some random knowledge - some might be of more use than others.
+Hereby, the goal is not to be like a newspaper but more like an individual trying to learn something for her life.
 
-### Markdown
+Please feel free to share articles, websites etc. which helped you to broaden your horizon.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_This blog will not be about myself as a person but more of my interests._
 
-```markdown
-Syntax highlighted code block
+Furthermore, I enjoy when people like my food, so I might post also some baking/cookin receipes. But this is just a side thing.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HagspielLaura/hello-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### What I have learnt today: Day 1
